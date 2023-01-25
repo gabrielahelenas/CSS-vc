@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    background-color: #FFD3B4;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+a {
+        color: #66BFBF;
+        font-family: 'Montserrat', sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+}
+a:hover {
+        color: black;
+}
+hr {
+    border: dotted white 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+h1 {
+    font-size: 70px;
+    margin-top: 0;
+    font-family: 'Sacramento' , cursive;
+    color: white;
+    line-height: 1;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+p {
+    line-height: 2;
+}
+.avatar {
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+}
+.bottom {
+    background-color: #C1EFFF;
+    padding-top: 30px;
+    margin-top: 50px;
+    margin-bottom: -10px;
+}
+.btn {
+    background-image: linear-gradient(#C1EFFF 20%, #C1EFFF);
+    border-radius: 8px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 5px;
+    position: relative;
+    bottom: 20px;
+}
+.btn:hover {
+    filter: brightness(1.2);
+}
+.copy {
+    color: #66BFBF;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.middle-container {
+    padding-top: 50px;
+}
+.nutri {
+    width: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.skillspic {
+    width: 50%;
+    float: left;  
+    margin-right: 30px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    overflow: auto;
+}
+.study {
+    width: 700px;
+    margin-bottom: -5px;
+}
+.top-container {
+    background-color: #C1EFFF;
+    padding-top: 150px;
+}
